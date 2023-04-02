@@ -1,6 +1,6 @@
 export default {
   'engine-version': 'إصدار المحرك',
-  'license': 'الرخصة',
+  'license': 'الترخيص',
   'about': 'حول',
   'release': 'الإصدار',
   'support': 'الدعم'
